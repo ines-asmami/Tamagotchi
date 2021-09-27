@@ -1,0 +1,15 @@
+{
+  "name": "tamagotchi",
+  "version": "1.0.0",
+  "description": "tamagotchi sur terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inès",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.9.1",
+    "log-update": "^4.0.0"
+  }
+}
